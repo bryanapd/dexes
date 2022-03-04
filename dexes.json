@@ -1,10 +1,10 @@
 [
 
   {
-    "name": "MDEX BSC",
+    "name": "MDEX",
     "router": "0x7DAe51BD3E3376B8c7c4900E9107f12Be3AF1bA8",
     "factory": "0x3cd1c46068daea5ebb0d3f55f6915b10648062b8",
-    "git ainId": 56
+    "chainId": 56
   },
   {
     "name": "SafeMoon",
@@ -37,7 +37,7 @@
     "chainId": 56
   },
   {
-    "name": "Finance0x1Router",
+    "name": "Finance0x1",
     "router": "0xBb496Ddf38d4c035Cb2D54d3A633f260B74B5fbe",
     "factory": "0xd43859b527fce343c125f42d12dcafeec43dbc87",
     "chainId": 56
