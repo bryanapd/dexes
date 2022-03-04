@@ -1,0 +1,224 @@
+[
+  {
+    "name": "MDEX BSC",
+    "router": "0x7DAe51BD3E3376B8c7c4900E9107f12Be3AF1bA8",
+    "factory": "0x3cd1c46068daea5ebb0d3f55f6915b10648062b8",
+    "chainId": 56
+  },
+  {
+    "name": "SafeMoon",
+    "router": "0xe804f3c3e6dda8159055428848fe6f2a91c2b9af",
+    "factory": "0x86a859773cf6df9c8117f20b0b950ada84e7644d",
+    "chainId": 56
+  },
+  {
+    "name": "BlackEye Galaxy Token",
+    "router": "0x0b0caf81d63879c639bdf86d16bbc17409922997",
+    "factory": "0xdd64c8dcfb2af762c131cb3a159a3b7776f154f7",
+    "chainId": 56
+  },
+  {
+    "name": "SphynxRouter",
+    "router": "0x9caae40dcf950afea443119e51e821d6fe2437ca",
+    "factory": "0x635e0d07b3c6523f2dc2aebe3e109380248902fb",
+    "chainId": 56
+  },
+  {
+    "name": "CoinSwap",
+    "router": "0x34DBe8E5faefaBF5018c16822e4d86F02d57Ec27",
+    "factory": "0xC2D8d27F3196D9989aBf366230a47384010440c0",
+    "chainId": 56
+  },
+  {
+    "name": "BiSwapRouter02",
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "factory": "0x858e3312ed3a876947ea49d572a7c42de08af7ee",
+    "chainId": 56
+  },
+  {
+    "name": "Finance0x1Router",
+    "router": "0xBb496Ddf38d4c035Cb2D54d3A633f260B74B5fbe",
+    "factory": "0xd43859b527fce343c125f42d12dcafeec43dbc87",
+    "chainId": 56
+  },
+  {
+    "name": "MMOSwap",
+    "router": "0xfED014c59D67596a05E405098627C52449eBd231",
+    "factory": "0xea2676d3be3a215d23a50ffbc709dad20d6de035",
+    "chainId": 56
+  },
+  {
+    "name": "KyberSwap",
+    "router": "0x78df70615ffc8066cc0887917f2Cd72092C86409",
+    "factory": "0x878dfe971d44e9122048308301f540910bbd934c",
+    "chainId": 56
+  },
+  {
+    "name": "CafeSwap",
+    "router": "0x933daea3a5995fb94b14a7696a5f3ffd7b1e385a",
+    "factory": "0x3e708fdbe3ada63fc94f8f61811196f1302137ad",
+    "chainId": 56
+  },
+  {
+    "name": "BeGlobal Finance",
+    "router": "0xAAC81c0c950058256cf3D8ab7A7eedCDBdd18677",
+    "factory": "0xf238d267b3b1c85f2a95354251c20626bb7bc2a1",
+    "chainId": 56
+  },
+  {
+    "name": "YouSwap",
+    "router": "0xA4CE57F063A610290EEEF0564B034278438D06CF",
+    "factory": "0x137f34dF5bcDB30f5E858FC77CB7Ab60f8F7a09a",
+    "chainId": 56
+  },
+  {
+    "name": "Infinity Crypto",
+    "router": "0xeb1c0efe6655e019e2c6ab01e0bd0c97f4899a4e",
+    "factory": "0x6cc587515137ee5b89ebd0b25cc5fc2b93015357",
+    "chainId": 56
+  },
+  {
+    "name": "CCSwap",
+    "router": "0x0e3fFbcdF9B699370F3dF4D9716F18F22a0974B7",
+    "factory": "0xff6ad8728c0aa5215fefae3459d46b90a37b9546",
+    "chainId": 56
+  },
+  {
+    "name": "SakeSwap",
+    "router": "0x5Ee5aC9F359B5aE622cF9DDD473473FADcD1D5f3",
+    "factory": "0xa534cf041dcd2c95b4220254a0dcb4b905307fd8",
+    "chainId": 56
+  },
+  {
+    "name": "Yield Fields",
+    "router": "0xa4385646517d9b34ada4ac393a64ea120d08408c",
+    "factory": "0x0a376ee063184b444ff66a9a22ad91525285fe1c",
+    "chainId": 56
+  },
+  {
+    "name": "Nyanswop",
+    "router": "0xc946764369623F560a5962D32c1D16D45F1BD6fa",
+    "factory": "0xf38d202723a9376c034ed5b8cecb4efe8f249836",
+    "chainId": 56
+  },
+  {
+    "name": "QuickSwap",
+    "router": "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff",
+    "factory": "0x5757371414417b8c6caad45baef941abc7d3ab32",
+    "chainId": 137
+  },
+  {
+    "name": "KyberSwap",
+    "router": "0x546c79662e028b661dfb4767664d0273184e4dd1",
+    "factory": "0x5f1fe642060b5b9658c15721ea22e982643c095c",
+    "chainId": 137
+  },
+  {
+    "name": "Firebird Finance",
+    "router": "0xf6fa9ea1f64f1bbfa8d71f7f43faf6d45520bfac",
+    "factory": "0x5de74546d3b86c8df7feec30253865e1149818c8",
+    "chainId": 137
+  },
+  {
+    "name": "Plasmaswap",
+    "router": "0x5d5badef6f69cbafdf443d6226dc00b24626367e",
+    "factory": "0x745c475cc101ca5580eff6f723976480881bc008",
+    "chainId": 137
+  },
+  {
+    "name": "WaultSwap",
+    "router": "0x3a1d87f206d12415f5b0a33e786967680aab4f6d",
+    "factory": "0xa98ea6356a316b44bf710d5f9b6b4ea0081409ef",
+    "chainId": 137
+  },
+  {
+    "name": "SushiSwap",
+    "router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+    "factory": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+    "chainId": 137
+  },
+  {
+    "name": "Uniswap V3",
+    "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+    "factory": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+    "chainId": 137
+  },
+  {
+    "name": "KakiDex",
+    "router": "0x95DF772e09db393C024Efaec91bdDC4FBE680478",
+    "factory": "0xb9dc833a87a61ee4590f189d8fa7282031f4d7ff",
+    "chainId": 137
+  },
+  {
+    "name": "CafeSwap",
+    "router": "0x9055682E58C74fc8DdBFC55Ad2428aB1F96098Fc",
+    "factory": "0x5ede3f4e7203bf1f12d57af1810448e5db20f46c",
+    "chainId": 137
+  },
+  {
+    "name": "DFYN Network",
+    "router": "0xA102072A4C07F06EC3B4900FDC4C7B80b6c57429",
+    "factory": "0xe7fb3e833efe5f9c441105eb65ef8b261266423b",
+    "chainId": 137
+  },
+  {
+    "name": "ApeSwap",
+    "router": "0xC0788A3aD43d79aa53B09c2EaCc313A787d1d607",
+    "factory": "0xCf083Be4164828f00cAE704EC15a36D711491284",
+    "chainId": 137
+  },
+  {
+    "name": "Elk Finance",
+    "router": "0xf38a7A7Ac2D745E2204c13F824c00139DF831FFf",
+    "factory": "0xE3BD06c7ac7E1CeB17BdD2E5BA83E40D1515AF2a",
+    "chainId": 137
+  },
+  {
+    "name": "Cometh",
+    "router": "0x93bcDc45f7e62f89a8e901DC4A0E2c6C427D9F25",
+    "factory": "0x800b052609c355ca8103e06f022aa30647ead60a",
+    "chainId": 137
+  },
+  {
+    "name": "Gravity Finance",
+    "router": "0x57dE98135e8287F163c59cA4fF45f1341b680248",
+    "factory": "0x3ed75AfF4094d2Aaa38FaFCa64EF1C152ec1Cf20",
+    "chainId": 137
+  },
+  {
+    "name": "PolyDEX",
+    "router": "0xC60aE14F2568b102F8Ca6266e8799112846DD088",
+    "factory": "0xEAA98F7b5f7BfbcD1aF14D0efAa9d9e68D82f640",
+    "chainId": 137
+  },
+  {
+    "name": "POLYDEX",
+    "router": "0xBd13225f0a45BEad8510267B4D6a7c78146Be459",
+    "factory": "0x5bdd1cd910e3307582f213b33699e676e61dead9",
+    "chainId": 137
+  },
+  {
+    "name": "PolyZap Farm",
+    "router": "0x4aAEC1FA8247F85Dc3Df20F4e03FEAFdCB087Ae9",
+    "factory": "0x34De5ce6c9a395dB5710119419A7a29baa435C88",
+    "chainId": 137
+  },
+  {
+    "name": "Firebird Swap",
+    "router": "0xF6fa9Ea1f64f1BBfA8d71f7f43fAF6D45520bfac",
+    "factory": "0x5De74546d3B86C8Df7FEEc30253865e1149818C8",
+    "chainId": 137
+  },
+  {
+    "name": "OneSwap",
+    "router": "0x9f197f9ff460355A40B3c9A10f7d1Ca65f365b83",
+    "factory": "0xD2891F9a9fDBFfC2DB3Ec9D4194409a7678CBc51",
+    "chainId": 137
+  },
+  {
+    "name": "Smartdex",
+    "router": "0x6f5fE5Fef0186f7B27424679cbb17e45df6e2118",
+    "factory": "0xbe087bed88539d28664c9998fe3f180ea7b9749c",
+    "chainId": 137
+  }
+]
