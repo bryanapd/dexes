@@ -514,6 +514,59 @@
     "router": "0xdb4De0AcAdb5ddB622B7493bE981E65584b4AD04",
     "factory": "0xd4e362d5b0a1bc4a269168e64a85098d362ce2ab",
     "chainId": 128
+  },
+  {
+    "name": "Uniswap V2",
+    "router": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "factory": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
+    "chainId": 1
+  },
+  {
+    "name": "Uniswap V3",
+    "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+    "factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
+    "chainId": 1
+  },
+  {
+    "name": "Sushi",
+    "router": "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F",
+    "factory": "0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac",
+    "chainId": 1
+  },
+  {
+    "name": "Convex Finance",
+    "router": "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F",
+    "factory": "0x3c995e43E6ddD551E226F4c5544C77BfeD147aB9",
+    "chainId": 1
+  },
+  {
+    "name": "Swapr",
+    "router": "0xB9960d9bcA016e9748bE75dd52F02188B9d0829f",
+    "factory": "0xd34971bab6e5e356fd250715f5de0492bb070452",
+    "chainId": 1
+  },
+  {
+    "name": "Uniswap V1",
+    "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
+    "factory": "0xc0a47dFe034B400B47bDaD5FecDa2621de6c4d95",
+    "chainId": 1
+  },
+  {
+    "name": "Kyber Swap",
+    "router": "0x1c87257F5e8609940Bc751a07BB085Bb7f8cDBE6",
+    "factory": "0x833e4083B7ae46CeA85695c4f7ed25CDAd8886dE",
+    "chainId": 1
+  },
+  {
+    "name": "Unicly",
+    "router": "0xE6E90bC9F3b95cdB69F48c7bFdd0edE1386b135a",
+    "factory": "0xbacc776b231c571a7e6ab7bc2c8a099e07153377",
+    "chainId": 1
+  },
+  {
+    "name": "Oracle Universe",
+    "router": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
+    "factory": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
+    "chainId": 1
   }
-  
 ]
