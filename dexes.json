@@ -1,9 +1,10 @@
 [
+
   {
     "name": "MDEX BSC",
     "router": "0x7DAe51BD3E3376B8c7c4900E9107f12Be3AF1bA8",
     "factory": "0x3cd1c46068daea5ebb0d3f55f6915b10648062b8",
-    "chainId": 56
+    "git ainId": 56
   },
   {
     "name": "SafeMoon",
@@ -82,6 +83,42 @@
     "router": "0x0e3fFbcdF9B699370F3dF4D9716F18F22a0974B7",
     "factory": "0xff6ad8728c0aa5215fefae3459d46b90a37b9546",
     "chainId": 56
+  },
+  {
+    "name":"StreetSwap",
+    "router":"0x3bc677674df90A9e5D741f28f6CA303357D0E4Ec",
+    "factory":"0xac653ce27e04c6ac565fd87f18128ad33ca03ba2",
+    "chainId":56
+  },
+  {
+    "name":"BurgerSwap",
+    "router":"0x86A327715d707BCa24983b1145D1F6c40C5d4A74",
+    "factory":"0x8a1e9d3aebbbd5ba2a64d3355a48dd5e9b511256",
+    "chainId":56
+  },
+  {
+    "name":"SiberianSwap",
+    "router":"0x3EabfC5B9eca129520f272F2D8f7aF164320fa5a",
+    "factory":"0x309848f9f2c15786c1d30918291622b21c464414",
+    "chainId":56
+  },
+  {
+    "name":"Nagswap",
+    "router":"0x226BE9817Bb906C715C61396a4c85a744e002C46",
+    "factory":"0x367e796b78a03940a55edd7a7042000e550ff928",
+    "chainId":56
+  },
+  {
+    "name":"LeoniCorn Swap",
+    "router":"0x9de7c5E05d87D20cC9798C83844dd9813EC74FDF",
+    "factory":"0xeb10f4fe2a57383215646b4ac0da70f8edc69d4f",
+    "chainId":56
+  },
+  {
+    "name":"BenSwap",
+    "router":"0xd07622f60543D1f744B6397C27Ac4a2e226d0943",
+    "factory":"0x4dc6048552e2dc6eb1f82a783e859157d40fa193",
+    "chainId":56
   },
   {
     "name": "SakeSwap",
@@ -516,57 +553,34 @@
     "chainId": 128
   },
   {
-    "name": "Uniswap V2",
-    "router": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
-    "factory": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
-    "chainId": 1
+    "name":"SushiSwap",
+    "router":"0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+    "factory":"0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+    "chainId":42161
   },
   {
-    "name": "Uniswap V3",
-    "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
-    "factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
-    "chainId": 1
+    "name":"MultiChain",
+    "router":"0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
+    "factory":"0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+    "chainId":42161
   },
   {
-    "name": "Sushi",
-    "router": "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F",
-    "factory": "0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac",
-    "chainId": 1
+    "name":"AliumRouter",
+    "router":"0x54a472C96b01f8639326D49Ef3eD4B9a78C3ba63",
+    "factory":"0x6cfe00906a2074f41788b8dc4fa66a4c13c2a3a3",
+    "chainId":1313161554
   },
   {
-    "name": "Convex Finance",
-    "router": "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F",
-    "factory": "0x3c995e43E6ddD551E226F4c5544C77BfeD147aB9",
-    "chainId": 1
+    "name":"TriMaker",
+    "router":"0xe793455c9728fc91A3E5a33FAfF9eB2F228aE151",
+    "factory":"0xc66f594268041db60507f00703b152492fb176e7",
+    "chainId":1313161554
   },
   {
-    "name": "Swapr",
-    "router": "0xB9960d9bcA016e9748bE75dd52F02188B9d0829f",
-    "factory": "0xd34971bab6e5e356fd250715f5de0492bb070452",
-    "chainId": 1
-  },
-  {
-    "name": "Uniswap V1",
-    "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
-    "factory": "0xc0a47dFe034B400B47bDaD5FecDa2621de6c4d95",
-    "chainId": 1
-  },
-  {
-    "name": "Kyber Swap",
-    "router": "0x1c87257F5e8609940Bc751a07BB085Bb7f8cDBE6",
-    "factory": "0x833e4083B7ae46CeA85695c4f7ed25CDAd8886dE",
-    "chainId": 1
-  },
-  {
-    "name": "Unicly",
-    "router": "0xE6E90bC9F3b95cdB69F48c7bFdd0edE1386b135a",
-    "factory": "0xbacc776b231c571a7e6ab7bc2c8a099e07153377",
-    "chainId": 1
-  },
-  {
-    "name": "Oracle Universe",
-    "router": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
-    "factory": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
-    "chainId": 1
+    "name":"WannaSwapRouterV2",
+    "router":"0xa3a1eF5Ae6561572023363862e238aFA84C72ef5",
+    "factory":"0x7928d4fea7b2c90c732c10aff59cf403f0c38246",
+    "chainId":1313161554
   }
+  
 ]
