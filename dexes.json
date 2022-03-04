@@ -102,6 +102,72 @@
     "chainId": 56
   },
   {
+    "name": "BabySwap",
+    "router": "0x325E343f1dE602396E256B67eFd1F61C3A6B38Bd",
+    "factory": "0x86407bEa2078ea5f5EB5A52B2caA963bC1F889Da",
+    "chainId": 56
+  },
+  {
+    "name": "JetSwap",
+    "router": "0xBe65b8f75B9F20f4C522e0067a3887FADa714800",
+    "factory": "0x0eb58E5c8aA63314ff5547289185cC4583DfCBD5",
+    "chainId": 56
+  },
+  {
+    "name": "Elk Finance",
+    "router": "0xA63B831264183D755756ca9AE5190fF5183d65D6",
+    "factory": "0x31aFfd875e9f68cd6Cd12Cee8943566c9A4bBA13",
+    "chainId": 56
+  },
+  {
+    "name": "LatteSwap",
+    "router": "0x4Ec82EcD19529ff50a467F522029f69459bf071d",
+    "factory": "0x4DcE5Bdb81B8D5EdB66cA1b8b2616A8E0Dd5f807",
+    "chainId": 56
+  },
+  {
+    "name": "ChimpySwap V2",
+    "router": "0x61D04f556F1B5EBe38548cBD27FC9BDcf87Bad44",
+    "factory": "0xADfFd760F642b5305b0AbDa21cf956Dd836B5de5",
+    "chainId": 56
+  },
+  {
+    "name": "Bengal Swap",
+    "router": "0x4d3a7e04Be857a1E8255eC80C503042498872141",
+    "factory": "0x8930F45e1B9818a5Bb683619bC1Fe58880dd75cf",
+    "chainId": 56
+  },
+  {
+    "name": "CowSwap",
+    "router": "0x9f8efF2a51e31C68fAD335D4db7E7764AD8f47ee",
+    "factory": "0xD0a28A0f9Bd7Df9b45bd83794Af6Fff20CEaAC18",
+    "chainId": 56
+  },
+  {
+    "name": "Uranium Finance",
+    "router": "0xF4EE46Ac2BA83121F79c778ed0D950ffF11a18Ed",
+    "factory": "0xA943eA143cd7E79806d670f4a7cf08F8922a454F",
+    "chainId": 56
+  },
+  {
+    "name": "Puppyswap",
+    "router": "0xA4fB6622c59628A822E3514B5FD99b8b70A9bACD",
+    "factory": "0xb5795F2Db654CBbB50210c1f50C9ca52024757D9",
+    "chainId": 56
+  },
+  {
+    "name": "Voltage",
+    "router": "0xE3F85aAd0c8DD7337427B9dF5d0fB741d65EEEB5",
+    "factory": "0x1998E4b0F1F922367d8Ec20600ea2b86df55f34E",
+    "chainId": 122
+  },
+  {
+    "name": "Elk Finance",
+    "router": "0x9a5De8C973c2f64f0f518DE581BcC2aa2dF8A621",
+    "factory": "0x779407e40Dad9D70Ba5ADc30E45cC3494ec71ad2",
+    "chainId": 122
+  },
+  {
     "name": "QuickSwap",
     "router": "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff",
     "factory": "0x5757371414417b8c6caad45baef941abc7d3ab32",
@@ -220,5 +286,131 @@
     "router": "0x6f5fE5Fef0186f7B27424679cbb17e45df6e2118",
     "factory": "0xbe087bed88539d28664c9998fe3f180ea7b9749c",
     "chainId": 137
+  },
+  {
+    "name": "SpiritSwap",
+    "router": "0x16327E3FbDaCA3bcF7E38F5Af2599D2DDc33aE52",
+    "factory": "0xEF45d134b73241eDa7703fa787148D9C9F4950b0",
+    "chainId": 250
+  },
+  {
+    "name": "SpookySwap",
+    "router": "0xF491e7B69E4244ad4002BC14e878a34207E38c29",
+    "factory": "0x152eE697f2E276fA89E96742e9bB9aB1F2E61bE3",
+    "chainId": 250
+  },
+  {
+    "name": "SushiSwap V2",
+    "router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+    "factory": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4",
+    "chainId": 250
+  },
+  {
+    "name": "Anyswap V3",
+    "router": "0x77a44081c37f2e3e70c2a2C5F589cDEaE27F6d17",
+    "factory": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4",
+    "chainId": 250
+  },
+  {
+    "name": "Tarot",
+    "router": "0x283e62CFe14b352dB8e30A9575481DCbf589Ad98",
+    "factory": "0x35C052bBf8338b06351782A565aa9AaD173432eA",
+    "chainId": 250
+  },
+  {
+    "name": "PaintSwap",
+    "router": "0xfD000ddCEa75a2E23059881c3589F6425bFf1AbB",
+    "factory": "0x733A9D1585f2d14c77b49d39BC7d7dd14CdA4aa5",
+    "chainId": 250
+  },
+  {
+    "name": "HyperJump",
+    "router": "0x53c153a0df7E050BbEFbb70eE9632061f12795fB",
+    "factory": "0x991152411A7B5A14A8CF0cDDE8439435328070dF",
+    "chainId": 250
+  },
+  {
+    "name": "fBOMB Finance",
+    "router": "0xb9799De71100e20aC1cdbCc63C69ddA2D0D81710",
+    "factory": "0xD9473A05b2edf4f614593bA5D1dBd3021d8e0Ebe",
+    "chainId": 250
+  },
+  {
+    "name": "Kyber Swap",
+    "router": "0x5d5A5a0a465129848c2549669e12cDC2f8DE039A",
+    "factory": "0x78df70615ffc8066cc0887917f2Cd72092C86409",
+    "chainId": 250
+  },
+  {
+    "name": "ProtoFi",
+    "router": "0xF4C587a0972Ac2039BFF67Bc44574bB403eF5235",
+    "factory": "0x39720E5Fe53BEEeb9De4759cb91d8E7d42c17b76",
+    "chainId": 250
+  },
+  {
+    "name": "Degen Haus",
+    "router": "0xcdA8f0fB4132D977AD427d18555E0cb1b1dfA363",
+    "factory": "0xA01C3d760738c79e10334408aE59684Aa36B1131",
+    "chainId": 250
+  },
+  {
+    "name": "Solarflare",
+    "router": "0xd3B02Ff30c218c7f7756BA14bcA075Bf7C2C951e",
+    "factory": "0x19B85ae92947E0725d5265fFB3389e7E4F191FDa",
+    "chainId": 1284
+  },
+  {
+    "name": "Beamswap",
+    "router": "0x96b244391D98B62D19aE89b1A4dCcf0fc56970C7",
+    "factory": "0x985BcA32293A7A496300a48081947321177a86FD",
+    "chainId": 1284
+  },
+  {
+    "name": "StellaSwap v2",
+    "router": "0xd0A01ec574D1fC6652eDF79cb2F880fd47D34Ab1",
+    "factory": "0x68A384D826D3678f78BB9FB1533c7E9577dACc0E",
+    "chainId": 1284
+  },
+  {
+    "name": "Solarbeam",
+    "router": "0xAA30eF758139ae4a7f798112902Bf6d65612045f",
+    "factory": "0x049581aEB6Fe262727f290165C29BDAB065a1B68",
+    "chainId": 1285
+  },
+  {
+    "name": "Trader Joe",
+    "router": "0x60aE616a2155Ee3d9A68541Ba4544862310933d4",
+    "factory": "0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10",
+    "chainId": 43114
+  },
+  {
+    "name": "Pangolin Exchange",
+    "router": "0xE54Ca86531e17Ef3616d22Ca28b0D458b6C89106",
+    "factory": "0xefa94DE7a4656D787667C749f7E1223D71E9FD88",
+    "chainId": 43114
+  },
+  {
+    "name": "Baguette",
+    "router": "0xF7b1e993d1b4F7348D64Aa55A294E4B74512F7f2",
+    "factory": "0x3587B8c0136c2C3605a9E5B03ab54Da3e4044b50",
+    "chainId": 43114
+  },
+  {
+    "name": "Elk Finance",
+    "router": "0x9E4AAbd2B3E60Ee1322E94307d0776F2c8e6CFbb",
+    "factory": "0x091d35d7F63487909C863001ddCA481c6De47091",
+    "chainId": 43114
+  },
+  {
+    "name": "Lydia Finance",
+    "router": "0xA52aBE4676dbfd04Df42eF7755F01A3c41f28D27",
+    "factory": "0xe0C1bb6DF4851feEEdc3E14Bd509FEAF428f7655",
+    "chainId": 43114
+  },
+  {
+    "name": "YetiSwap",
+    "router": "0x262DcFB36766C88E6A7a2953c16F8defc40c378A",
+    "factory": "0x58C8CD291Fa36130119E6dEb9E520fbb6AcA1c3a",
+    "chainId": 43114
   }
 ]
