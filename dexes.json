@@ -193,6 +193,48 @@
     "chainId": 56
   },
   {
+    "name": "CheeseSwap",
+    "router": "0x3047799262d8d2ef41ed2a222205968bc9b0d895",
+    "factory": "0xdd538e4fd1b69b7863e1f741213276a6cf1efb3b",
+    "chainId": 56
+  },
+  {
+    "name": "SpookySwap",
+    "router": "0xf491e7b69e4244ad4002bc14e878a34207e38c29",
+    "factory": "0x152ee697f2e276fa89e96742e9bb9ab1f2e61be3",
+    "chainId": 56
+  },
+  {
+    "name": "BSCswap",
+    "router": "0xd954551853f55deb4ae31407c423e67b1621424a",
+    "factory": "0xce8fd65646f2a2a897755a1188c04ace94d2b8d0",
+    "chainId": 56
+  },
+  {
+    "name": "Uniswap V2",
+    "router": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "factory": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
+    "chainId": 56
+  },
+  {
+    "name": "Uniswap V2",
+    "router": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
+    "factory": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
+    "chainId": 56
+  },
+  {
+    "name": "Wault Finance",
+    "router": "0xD48745E39BbED146eEC15b79cBF964884F9877c2",
+    "factory": "0xB42E3FE71b7E0673335b3331B3e1053BD9822570",
+    "chainId": 56
+  },
+  {
+    "name": "Panther Swap",
+    "router": "0x24f7c33ae5f77e2a9eceed7ea858b4ca2fa1b7ec",
+    "factory": "0x670f55c6284c629c23bae99f585e3f17e8b9fc31",
+    "chainId": 56
+  },
+  {
     "name": "Voltage",
     "router": "0xE3F85aAd0c8DD7337427B9dF5d0fB741d65EEEB5",
     "factory": "0x1998E4b0F1F922367d8Ec20600ea2b86df55f34E",
