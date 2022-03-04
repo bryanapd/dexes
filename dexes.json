@@ -412,5 +412,108 @@
     "router": "0x262DcFB36766C88E6A7a2953c16F8defc40c378A",
     "factory": "0x58C8CD291Fa36130119E6dEb9E520fbb6AcA1c3a",
     "chainId": 43114
+  },
+  {
+    "name": "UnisaveV2",
+    "router": "0x039b5818e51dfec86c1d56a4668787af0ed1c068",
+    "factory": "0x32ce36f6ea8d97f9fc19aab83b9c6d2f52d74470",
+    "chainId": 56
+  },
+  {
+    "name": "ShibaNovaDEX",
+    "router": "0xeb17dd35e47b1a41ba4d86b3506ec1f9b680b56a",
+    "factory": "0x251912de998ec91dfdf67efbe032d6f4ab5ec485",
+    "chainId": 56
+  },
+  {
+    "name": "Warden swap",
+    "router": "​0x71ac17934b60A4610dc58b715B61e45DCBdE4054",
+    "factory": "0x3657952d7bA5A0A4799809b5B6fdfF9ec5B46293",
+    "chainId": 56
+  },
+  {
+    "name": "Bunicorn",
+    "router": "0x689E37aFb4236A5cF808cA05a8D1c564200fA0E4",
+    "factory": "0x86873f85bc12ce40321340392c0ff39c3bdb8d68​",
+    "chainId": 56
+  },
+  {
+    "name": "ProximaMaker",
+    "router": "0x894a60dc96deA97e809063c6C098f9707c21B0a0",
+    "factory": "0x642e7fb78a719133f15a73e14ac5801048ad79bc",
+    "chainId": 56
+  },
+  {
+    "name": "ProximaPairGovernor",
+    "router": "0x1A1F3AdA8674896B8e312BF260A390E24A7b6a9A",
+    "factory": "0x642e7fb78a719133f15a73e14ac5801048ad79bc",
+    "chainId": 56
+  },
+  {
+    "name": "ProximaV3Router",
+    "router": "0xd8D0cBf059C5b39d4CB1c7592ce09D714bA72958",
+    "factory": "0x642e7fb78a719133f15a73e14ac5801048ad79bc",
+    "chainId": 56
+  },
+  {
+    "name": "Fudmartswap",
+    "router": "0x098dDaE6F7064349C47dC4636ff21950a24F14Bc",
+    "factory": "0x57a2854f8f9bcf62ae26584b82b76ea9fb57d53d",
+    "chainId": 56
+  },
+  {
+    "name": "BigSwap",
+    "router": "0x02c15b424d9cb9D34B650E49868bc29723727f68",
+    "factory": "0x6b549d011fa0409b12329b618214837c0735db85",
+    "chainId": 56
+  },
+  {
+    "name": "Uniswap V3: Router 2 FactoryV2",
+    "router": "0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45",
+    "factory": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
+    "chainId": 10
+  },
+  {
+    "name": "Uniswap V3: Router 2 Factoryv3",
+    "router": "0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45",
+    "factory": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+    "chainId": 10
+  },
+  {
+    "name": "UniswapV3Oracle",
+    "router": "0x615DcCB17f762Cae61A36a336A1340AFcE764c71",
+    "factory": " 0x1f98431c8ad98523631ae4a59f267346ea31f984",
+    "chainId": 10
+  },
+  {
+    "name": "UniswapV2Router02",
+    "router": "0xE6Df0BB08e5A97b40B21950a0A51b94c4DbA0Ff6",
+    "factory": "0x8bcedd62dd46f1a76f8a1633d4f5b76e0cda521e",
+    "chainId": 10
+  },
+  {
+    "name": "Depthswap",
+    "router": "0x0b27daDD9DA68b665d5B986A77302F27723A070a",
+    "factory": "0x0d49a40c519e465138c0c640b547db0c4d9abae8",
+    "chainId": 128
+  },
+  {
+    "name": "Pippi",
+    "router": "0xBe4AB2603140F134869cb32aB4BC56d762Ae900B",
+    "factory": "0x979efe7ca072b72d6388f415d042951ddf13036e",
+    "chainId": 128
+  },
+  {
+    "name": "Mdex",
+    "router": "0xED7d5F38C79115ca12fe6C0041abb22F0A06C300",
+    "factory": "0xb0b670fc1f7724119963018db0bfa86adb22d941",
+    "chainId": 128
+  },
+  {
+    "name": "Ogeeswap",
+    "router": "0xdb4De0AcAdb5ddB622B7493bE981E65584b4AD04",
+    "factory": "0xd4e362d5b0a1bc4a269168e64a85098d362ce2ab",
+    "chainId": 128
   }
+  
 ]
